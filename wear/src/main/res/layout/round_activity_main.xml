@@ -7,7 +7,7 @@
     android:background="@color/dark_grey"
     android:padding="@dimen/box_inset_layout_padding"
     tools:context=".MainActivity"
-    tools:deviceIds="wear_rect">
+    tools:deviceIds="wear_round">
 
     <LinearLayout
         android:layout_width="match_parent"
